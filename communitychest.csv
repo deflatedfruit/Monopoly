@@ -1,0 +1,16 @@
+M0,Advance to Go
+M1,Advance to Old Kent Road
+M40,Go to Jail
+F100,Pay hospital
+F50,Pay doctor's fee
+F50,Pay your insurance premium
+P200,Bank error in your favour. Collect
+P100,Annunity matures
+P100,You inherit
+P50,From sale of stock you get
+P25,Receive interest on 7% preference shares
+P20,Income tax refund. Collect
+P10,You have won second prize in a beauty contest. Collect
+PB10,It is your birthday. Collect £10 from every player
+J,Get out of jail free. This card will be kept until used
+C,Pay a £10 fine or take a Chance card
